@@ -1,4 +1,4 @@
-# Java ile Backend Web Development Patikası: Veri Yapıları ve Algoritmalar
+## Başlangıç Seviye Java ile Backend Web Development Patikası: Veri Yapıları ve Algoritmalar
 Bu repo [Patika](https://app.patika.dev/) sitesindeki [Veri Yapıları ve Algoritmalar](https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar) eğitiminin ödev kodlarını içermektedir.
 
 ### [Ödev 1 - Insertion Sort Projesi](https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/insertion-sort-proje)

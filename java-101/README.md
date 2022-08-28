@@ -1,4 +1,4 @@
-# Başlangıç Seviye Java ile Backend Web Development Patikası: Java-101
+## Başlangıç Seviye Java ile Backend Web Development Patikası: Java-101
 Bu repo [Patika](https://app.patika.dev/) sitesindeki [Java-101](https://app.patika.dev/moduller/java101) eğitiminin ödev kodlarını ve bitirme projelerini içermektedir.
 
 ### Projeler

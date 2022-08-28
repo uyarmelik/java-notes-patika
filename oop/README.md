@@ -1,7 +1,7 @@
-# Başlangıç Seviye Java ile Backend Web Development: Object Oriented Programming
+## Başlangıç Seviye Java ile Backend Web Development: Object Oriented Programming
 Bu repo [Patika](https://app.patika.dev/) sitesindeki [Object Oriented Programming](https://app.patika.dev/moduller/oop) eğitiminin ödev kodlarını ve bitirme projelerini içermektedir.
 
-# Kullanım
+## Kullanım
 Kullanmak isteyenler için diyagramların proje dosyasını da ekledim. Proje dosyaları [Dia Diagram Editor](http://dia-installer.de/) ile açılabilir.
 
 ### [Ödev 1 - Üniversite Yönetim Sistemi](https://app.patika.dev/moduller/oop/odev-university)

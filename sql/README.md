@@ -1,7 +1,7 @@
-# Başlangıç Seviye Java ile Backend Web Development Patikası: SQL Eğitimi
+## Başlangıç Seviye Java ile Backend Web Development Patikası: SQL Eğitimi
 Bu repo [Patika](https://app.patika.dev/) sitesindeki [SQL](https://app.patika.dev/moduller/sql) eğitiminin ödev kodlarını ve bitirme projelerini içermektedir.
 
-# Kullanım
+## Kullanım
 Çalışmalarda veritabanı yönetim sistemi olarak "PostgreSQL" kullanıldı. Database olarak da [PostgreSQL Tutorial](https://www.postgresqltutorial.com/) sitesindeki [örnek database](https://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip) kullanıldı. Bunların kurulumu ise [patika içerisinde](https://app.patika.dev/moduller/sql/InstallPostgresql) anlatılıyor.
 
 ### [Ödev 1](https://app.patika.dev/moduller/sql/Odev1)
