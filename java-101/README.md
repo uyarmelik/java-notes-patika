@@ -1,5 +1,5 @@
-# Başlangıç Seviye Java ile Backend Web Development: Java-101
-Bu repo [Patika](https://app.patika.dev/) sitesindeki [Java-101](https://app.patika.dev/courses/java101) eğitiminin ödev kodlarını ve bitirme projelerini içermektedir.
+# Başlangıç Seviye Java ile Backend Web Development Patikası: Java-101
+Bu repo [Patika](https://app.patika.dev/) sitesindeki [Java-101](https://app.patika.dev/moduller/java101) eğitiminin ödev kodlarını ve bitirme projelerini içermektedir.
 
 ### Projeler
 1. [Not Ortalaması Hesaplayan Program](https://app.patika.dev/moduller/java101/pratik-not-ortalamasi)
@@ -10,7 +10,7 @@ Bu repo [Patika](https://app.patika.dev/) sitesindeki [Java-101](https://app.pat
 6. [Vücut Kitle İndeksi Hesaplama](https://app.patika.dev/moduller/java101/odev-vucut-kitle-hesaplama)
 7. [Manav Kasa Programı](https://app.patika.dev/moduller/java101/odev-manav-kasa)
 8. [Hesap Makinesi Programı](https://app.patika.dev/moduller/java101/pratik-hesap-mak-1)
-9. [Kullanıcı Girişi](https://app.patika.dev/moduller/java101/pratik-login-)
+9. [Kullanıcı Girişi](https://app.patika.dev/moduller/java101/pratik-login-1)
 10. [Sınıfı Geçme Durumu](https://app.patika.dev/moduller/java101/pratik-sinif-gecme)
 11. [Etkinlik Öneren Program](https://app.patika.dev/moduller/java101/pratik-etkinlik-onerme)
 12. [Sayıları Büyükten Küçüğe Sıralama](https://app.patika.dev/moduller/java101/pratik-sayi-siralama)

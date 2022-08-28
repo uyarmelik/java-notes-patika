@@ -5,5 +5,5 @@ Bu repo [Patika](https://app.patika.dev/) sitesindeki [Başlangıç Seviye Java 
 "Git Bash" üzerinden şu komut satırı ile yüklenebilir:
 
 ```
-git clone https://github.com/uyarmelik/JavaBackendWebDevelopmentPatikasi.git
+git clone https://github.com/uyarmelik/BeginningJavaDevelopment-AtPatika.git
 ```
