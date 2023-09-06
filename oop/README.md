@@ -1,17 +1,17 @@
 ## Başlangıç Seviye Java ile Backend Web Development: Object Oriented Programming
-Bu repo [Patika](https://app.patika.dev/) sitesindeki [Object Oriented Programming](https://app.patika.dev/moduller/oop) eğitiminin ödev kodlarını ve bitirme projelerini içermektedir.
+Bu repo [Patika](https://academy.patika.dev/tr) sitesindeki [Object Oriented Programming](https://academy.patika.dev/tr/courses/oop) eğitiminin ödev kodlarını ve bitirme projelerini içermektedir.
 
 ## Kullanım
 Kullanmak isteyenler için diyagramların proje dosyasını da ekledim. Proje dosyaları [Dia Diagram Editor](http://dia-installer.de/) ile açılabilir.
 
-### [Ödev 1 - Üniversite Yönetim Sistemi](https://app.patika.dev/moduller/oop/odev-university)
+### [Ödev 1 - Üniversite Yönetim Sistemi](https://academy.patika.dev/tr/courses/oop/odev-university)
 Aşağıdaki sistemi tasvir eden Class (Sınıf) diyagramını çiziniz.
 - Üniversiteye ait sınıflıklar, çalışma ofisleri ve departmanlar vardır.
 - Departmanlara ait ofisler vardır.
 - Üniversiteye ait çalışanlar vardır. Bu çalışanlar profesör veya memur olabilir.
 - Her çalışan bir ofiste çalışır.
 
-### [Ödev 2 - Hayvanat Bahçesi Yönetimi](https://app.patika.dev/moduller/oop/odev-zoo)
+### [Ödev 2 - Hayvanat Bahçesi Yönetimi](https://academy.patika.dev/tr/courses/oop/odev-zoo)
 Bir hayvanat bahçesindeki hayvanlar hakkındaki bilgileri takip etmek için bir sistem tasarlıyorsunuz.
 - Hayvanlar: Atlar (atlar, zebralar, eşekler vb.), Kedigiller (kaplanlar, aslanlar vb.), Kemirgenler (sıçanlar, kunduzlar vb.) gibi gruplardaki türlerle karakterize edilir.
 - Hayvanlar hakkında depolanan bilgilerin çoğu tüm gruplamalar için aynıdır.
@@ -21,7 +21,7 @@ Bir hayvanat bahçesindeki hayvanlar hakkındaki bilgileri takip etmek için bir
 - Sistemin bu işlevleri yerine getirme mantığı, her gruplama için farklı olacaktır. Örneğin, atlar için yem verme algoritması farklı olup, kaplanlar için farklı olacaktır.
 Polimorfizm modelini kullanarak, yukarıda açıklanan durumu ele almak için bir sınıf diyagramı tasarlayın.
 
-### [Ödev 3 - Uçuş Yönetim Sistemi](https://app.patika.dev/moduller/oop/odev-flight)
+### [Ödev 3 - Uçuş Yönetim Sistemi](https://academy.patika.dev/tr/courses/oop/odev-flight)
 Uçuşların ve pilotların yönetimi için bir sistem tasarlayın.
 - Hava yolu şirketleri uçuşları gerçekleştirir. Her hava yolunun bir kimliği vardır.
 - Hava yolu şirketi, farklı tipteki uçaklara sahiptir.
@@ -33,7 +33,7 @@ Uçuşların ve pilotların yönetimi için bir sistem tasarlayın.
 - Bir uçak tipi, belirli sayıda pilota ihtiyaç duyabilir.
 Bu sistemi tasvir eden Class(Sınıf) diyagramını çiziniz.
 
-### [Ödev 4 - Online Film Sistemi](https://app.patika.dev/moduller/oop/odev-film)
+### [Ödev 4 - Online Film Sistemi](https://academy.patika.dev/tr/courses/oop/odev-film)
 Online film satan veya kiralayan uygulamanın sistemini tasarlayın.
 - Uygulamada filmler listelenebilir, sıralanabilir ve kullanıcılar uygulamaya abone olabilir.
 - Kullanıcılar abonelik için sistem üzerinden kredi satın alır.
@@ -42,7 +42,7 @@ Online film satan veya kiralayan uygulamanın sistemini tasarlayın.
 - Eğer film mevcut değil ise talep edilebilir.
 Bu sistemi tasvir eden Class(Sınıf) diyagramını çiziniz.
 
-### [Ödev 5 - Asansör Simülasyonu](https://app.patika.dev/moduller/oop/odev-elevator)
+### [Ödev 5 - Asansör Simülasyonu](https://academy.patika.dev/tr/courses/oop/odev-elevator)
 Aşağıdaki problem ifadesine göre bir sınıf diyagramı tasarlayın. Nesne Yönelimli Programlamanın ilkelerini ve sınıflar arası ilişki durumlarını kullanmaya çalışın. (Encapsulation, Inheritance, Polymorphism, Abstraction)
 - Kodluyoruz Sigorta Şirketi 12 katlı bir ofis binası inşa etmek ve onu en son asansör teknolojisi ile donatmak istiyor. Şirket, bina içindeki trafik akışı ihtiyaçlarını karşılayıp karşılamayacaklarını görmek için binanın asansörlerinin işlemlerini modelleyen bir yazılım simülatörü oluşturmanızı istiyor.
 - Binada, her biri binanın 12 katına çıkabilecek beş asansör bulunacaktır. Her asansörün yaklaşık altı yetişkin yolcu kapasitesi vardır. Asansörler enerji tasarruflu olacak şekilde tasarlanmıştır, bu nedenle yalnızca gerektiğinde hareket ederler. Her asansörün kendi kapısı, kat gösterge ışığı ve kontrol paneli vardır. Kontrol panelinde hedef düğmeleri, kapı açma ve kapama düğmeleri ve bir acil durum sinyal düğmesi bulunur.
